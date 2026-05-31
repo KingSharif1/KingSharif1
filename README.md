@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm KingSharif1 👋</h1>
+<h1 align="center">Hey, I'm King Sharif 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer &bull; CS Enthusiast &bull; TypeScript Lover</b><br/>
