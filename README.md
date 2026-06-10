@@ -26,4 +26,5 @@ TypeScript · React · Next.js · Node.js / Express · Supabase · PostgreSQL ·
 
 ---
 
+
 [LinkedIn](https://www.linkedin.com/in/king-sharif/) · [Portfolio](https://www.kingsharif.live) · [Email](mailto:sharifahmed.dev@gmail.com)
