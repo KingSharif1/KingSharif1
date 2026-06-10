@@ -1,64 +1,29 @@
-<h1 align="center">Hey, I'm King Sharif 👋</h1>
+# Sharif Ahmed
+**Software Developer** — Fort Worth, TX
 
-<p align="center">
-  <b>Full-Stack Developer &bull; CS Enthusiast &bull; TypeScript Lover</b><br/>
-  Building cool things at the intersection of software, web, and ideas 🚀<br/>
-  <a href="https://www.kingsharif.live">🌐 kingsharif.live</a>
-</p>
+I build full-stack web and mobile applications. Currently developing RideCuro, a multi-tenant SaaS platform for non-emergency medical transportation with real-time GPS tracking, Stripe billing, and a React Native driver app.
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently building **[kingslive](https://github.com/KingSharif1/kingslive)** — a live TypeScript-powered web project
-- 🌱 Passionate about everything in **Computer Science & Tech** — from algorithms to full-stack apps
-- 💡 I enjoy building tools that solve real-world problems
-- 🎓 CS background with hands-on experience across web, systems, and software engineering
-- 📬 Reach me through my website: [kingsharif.live](https://www.kingsharif.live)
+B.S. Computer Science, Hardin-Simmons University | Previously shipped production React at Funeral Directors Life
 
 ---
 
-### 🛠️ Tech Stack
+### What I'm Building
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**[RideCuro](https://github.com/KingSharif1/RideCuro)** — Multi-tenant NEMT SaaS platform
+> Dispatch, real-time driver tracking, facility invoicing, usage-based Stripe billing, role-based access, white-label branding. React + Vite frontend, Express API, Supabase PostgreSQL, Expo/React Native driver app.
 
----
+**[HireIQ](https://github.com/KingSharif1/HireIQ)** — AI-powered hiring tool
+> AI-driven interview prep and job matching platform. TypeScript, React, Node.js, Supabase.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingSharif1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingSharif1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+**[Cowboy Cards](https://github.com/HSU-Senior-Project-2025/Cowboy_Cards)** — Cross-platform flashcard app (Senior Project)
+> Led core team using Agile sprints. Ionic + React + Capacitor for Web/iOS/Android. Go backend with Supabase PostgreSQL for auth and real-time storage.
 
 ---
 
-### 🔥 Streak
+### Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KingSharif1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+TypeScript · React · Next.js · Node.js / Express · Supabase · PostgreSQL · React Native / Expo · Tailwind CSS · Stripe · Git
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [kingslive](https://github.com/KingSharif1/kingslive) | Live web project | TypeScript |
-| [DfwNemt](https://github.com/KingSharif1/DfwNemt) | Transportation app | TypeScript |
-| [gemini-resume-tailor](https://github.com/KingSharif1/gemini-resume-tailor) | AI-powered resume tool | TypeScript |
-| [nami](https://github.com/KingSharif1/nami) | Web project | TypeScript |
-
----
-
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i>
-</p>
+[LinkedIn](https://www.linkedin.com/in/king-sharif/) · [Portfolio](https://www.kingsharif.live) · [Email](mailto:sharifahmed.dev@gmail.com)
