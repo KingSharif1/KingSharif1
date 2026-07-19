@@ -14,7 +14,7 @@
 
 ## 🔨 What I'm Building
 
-### [RideCuro](https://github.com/KingSharif1/RideCuro) — Multi-tenant NEMT SaaS Platform
+### [RideNEMT](https://github.com/KingSharif1/RideNEMT) — Multi-tenant NEMT SaaS Platform
 > Dispatch, real-time driver tracking, facility invoicing, usage-based Stripe billing, role-based access, white-label branding.
 > **Stack:** React + Vite · Express API · Supabase PostgreSQL · Expo/React Native driver app
 
