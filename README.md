@@ -24,7 +24,7 @@
 |---------|------------|
 | [**HireIQ**](https://github.com/KingSharif1/HireIQ) · [live](https://hireiq.kingsharif.com) | AI resume tailor + application tracker |
 | [**kingslive**](https://github.com/KingSharif1/kingslive) · [live](https://kingsharif.com) | Personal site — portfolio, blog, private HQ |
-| [**roomba-dashboard**](https://github.com/KingSharif1/roomba-dashboard) · [live](https://roomba.kingsharif.com) | Live Roomba ops dashboard |
+| [**Stella**](https://github.com/KingSharif1/stella) · [live](https://stella.kingsharif.com) | Live Roomba ops dashboard |
 | [**1942: Truly Forgotten**](https://github.com/KingSharif1/1942-truly-forgotten) · [live](https://trulyforgtten.shop) | Brand storefront |
 | [**Cowboy Cards**](https://github.com/HSU-Senior-Project-2025/Cowboy_Cards) | Cross-platform flashcards — senior project, team lead |
 
