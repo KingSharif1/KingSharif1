@@ -35,6 +35,7 @@
 | **RideNEMT** — multi-tenant NEMT SaaS | [app.ridenemt.com](https://app.ridenemt.com) |
 | **NEMT Billing (DfwNemt)** — trip-to-payment calculator | [nemtbiling.com](https://nemtbiling.com) |
 | **Nami** — personal finance | [nami.kingsharif.com](https://nami.kingsharif.com) |
+| **CutRoom** — standalone video-editing system | [cutroom.kingsharif.com](https://cutroom.kingsharif.com) |
 
 > Note: `nemtbiling.com` (one "l") is the live product. `nemtbilling.com` is a different company — do not use.
 
